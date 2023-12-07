@@ -1,0 +1,46 @@
+.main-container
+        {
+         margin:50px;
+        }
+        body
+        {
+            background:#edeeed;
+        
+        }
+        .min-height-600
+        {
+            min-height:650px;
+        }
+        .marg-left
+        {
+            margin-right:10px;
+        }
+        .no-flex-wrap
+        {
+            flex-wrap:inherit;
+        }
+        .back-main
+        {
+            background:#edeeed;
+        }
+        .pad
+        {
+          padding-left:0px;
+          padding-right:0px;
+        }
+        .border-none
+        { border:none;}
+        .min-height-90
+        {
+            min-height:90px;
+        }
+        .main-height
+        {
+            min-height:550px;    
+            }
+        .image-ajouter{
+            max-width:40px;
+            max-height:40px;
+
+        }
+        
